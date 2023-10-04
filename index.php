@@ -55,7 +55,7 @@
             </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://github.com/FilipBabic/MyPortfolio" target="_blank">Website source code</a>
+              <a class="nav-link" href="https://github.com/FilipBabic/Portfolio" target="_blank">Website source code</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" aria-current="page" href="/katan.php">Katan Leaderboards</a>
@@ -128,7 +128,7 @@
                     </svg>
                     <a class="link-opacity-90" href="https://github.com/FilipBabic?tab=repositories" target="_blank" >github.com/FilipBabic</a></p>
                     <p class="mb-1"><a class="btn btn-primary" href="img/Filip Babić cv Oct 2023.pdf" target="_blank">Download CV</a></p>
-                    <p class="mb-1"><a class="btn btn-primary" href="https://github.com/FilipBabic/MyPortfolio" target="_blank">View Source</a></p>
+                    <p class="mb-1"><a class="btn btn-primary" href="https://github.com/FilipBabic/Portfolio" target="_blank">View Source</a></p>
                   </div>
                 </div>
             </div>

@@ -22,7 +22,7 @@
               <a class="nav-link" href="/">My Portfolio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://github.com/FilipBabic/MyPortfolio" target="_blank">Website source code</a>
+              <a class="nav-link" href="https://github.com/FilipBabic/Portfolio" target="_blank">Website source code</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" aria-current="page" href="/katan.php">Katan Leaderboards</a>
